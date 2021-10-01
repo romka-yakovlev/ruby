@@ -5,3 +5,4 @@ File.open("some_file") do |file|
 end
 # comment 1
 # comment 2
+# another comment
